@@ -3,7 +3,7 @@ title: 信淞汽车销售有限公司
 email: 346461062@qq.com
 description: 信淞汽车销售有限公司主页.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://www.xinsongcar.com" # the base hostname & protocol for your site
+url: "http://www.xinsongcar.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
@@ -32,7 +32,7 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: 主页
+  - title: 首页
     url: /
   - title: 关于我们
     url: /about/
