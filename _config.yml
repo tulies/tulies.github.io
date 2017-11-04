@@ -1,9 +1,9 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
-baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+title: 信淞汽车销售有限公司
+email: 346461062@qq.com
+description: 信淞汽车销售有限公司主页.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://www.xinsongcar.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
@@ -32,11 +32,11 @@ gems:
 # Links to include in menu navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: 主页
     url: /
-  - title: About
+  - title: 关于我们
     url: /about/
-  - title: Contact
+  - title: 联系我们
     url: /contact/
 
 # Exclude my node related stuff
